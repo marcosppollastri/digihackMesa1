@@ -96,7 +96,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a.active {
   color: #fdcc52 !important;
-  background-color: transparent;
+  /* background-color: transparent; */
 }
 
 #mainNav .navbar-nav > li > a.active:hover {
